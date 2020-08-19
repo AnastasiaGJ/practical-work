@@ -1,3 +1,7 @@
 My file
+<<<<<<< HEAD
 
 for tag only
+=======
+1
+>>>>>>> newbranch
